@@ -1,8 +1,9 @@
 body {
-    background-color: grey;"
+    background-color: #87ceeb;"
 }
 
 h1 {
+    color: white;
     font-family: -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif ; 
 }
 
@@ -11,4 +12,7 @@ h4 {
 }
 .header {
     font-family: sans-serif;
+    background-image: url("./assets/header-title2.jpg");
+    height: 400px;
+    margin-top: -20px;
 }
