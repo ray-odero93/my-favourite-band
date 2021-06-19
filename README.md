@@ -1,16 +1,18 @@
-#The Lumineers 
+# The Lumineers 
 This is a website for a musical band, The Lumineers.
 
-##Developer:
-Raymond Odero (ray-wq)
+## Developer:
+Raymond Odero (ray-odero93)
 
-##Description:
+## Description:
 This is a website to provide insight on The Lumineers, a folk rock band with a niche in the Americana, blue grass genre of music. Also it aims to expose whoever visits this site to new or even better music.
 
-##Technologies Used:
+## Technologies Used:
 HTML & CSS
 
-##License:
+#### Bugs
+No known bugs.
+## License:
 Copyright <2021> <RAYMOND ODERO>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
