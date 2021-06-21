@@ -13,8 +13,13 @@ h4 {
 }
 .header {
     font-family: sans-serif;
-    background-image: url("./assets/header-title2.jpg");
+    background-image: url("./assets/bground1.jpg");
     background-repeat: no-repeat;
     height: 400px;
     margin-top: -20px;
+}
+
+footer {
+    background-image: url("./assets/bground2.jpg");
+    height: 150px;
 }
