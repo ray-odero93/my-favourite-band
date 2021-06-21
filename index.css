@@ -29,7 +29,6 @@ h4 {
     font-family: sans-serif;
     background-image: url("./assets/bground1.jpg");
     background-attachment: fixed;
-    background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
 }
