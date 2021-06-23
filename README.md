@@ -1,11 +1,21 @@
-# The Lumineers 
-This is a website for a musical band, The Lumineers.
+# The Lumineers Website
 
-## Developer:
-Raymond Odero (ray-odero93)
+#### A one page website for the band, The Lumineers. Done using HTML, CSS. 
+
+#### By Raymond Odero. 
 
 ## Description:
-This is a website to provide insight on The Lumineers, a folk rock band with a niche in the Americana, blue grass genre of music. Also it aims to expose whoever visits this site to new or even better music.
+One page website for a music band, divided into the following sections:
+   A header section containing the bands name in stylish fonts, and a background picture of the band members.
+   A descriptive section that gives a brief history of the band, it's current and previous members and the genre of music they make.
+   A band members section that delves into the individual stories of the band members and the circumstances that brought them together to form a music band.
+   A discography section which lists the compilations that have been released by the music band so far.
+   A favorite songs section, that basically entails a list of catchy tunes from the music band's compilations.
+   A footer section.
+   
+## Set-up/Installation Requirements
+To view the website, 
+     click/copy-paste this link;https://ray-odero93.github.io/my-favourite-band/ 
 
 ## Technologies Used:
 HTML & CSS
