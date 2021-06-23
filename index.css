@@ -5,7 +5,6 @@
 
 body {
     background-color: rgba(0, 0, 0, 0.05);
-    background-attachment: scroll;
 }
 
 h1 {
@@ -36,7 +35,6 @@ h4 {
 
 .header {
     background-image: url("./assets/bground1.jpg");
-    background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-top: 25px;
