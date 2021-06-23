@@ -1,3 +1,8 @@
+@font-face {
+    font-family: myCustomFont;
+    src: url(./fonts/Lobster/Lobster-Regular.ttf);
+}
+
 body {
     background-color: rgba(0, 0, 0, 0.05);
     background-attachment: scroll;
@@ -5,32 +10,36 @@ body {
 
 h1 {
     color: white;
-    font-family: -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-family: myCustomFont;
     text-align: center;
     font-size: 100px;
 }
 
 h2 {
+    font-family: myCustomFont;
     font-size: 35px;
     text-align: center;
 }
 
 h3 {
+    font-family: myCustomFont;
     font-size: 35px;
     text-align: center;
 }
 
 h4 {
+    text-align: center;
+    font-family: myCustomFont;
     font-size: 30px;
     font-style: italic;
 }
 
 .header {
-    font-family: sans-serif;
     background-image: url("./assets/bground1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    padding-top: 25px;
     height: 500px;
 }
 
@@ -42,8 +51,19 @@ h4 {
     font-size: 20px;
 }
 
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+}
+
 #jeremiah {
-    padding-top: 75px;
+    margin-right: 250px;
+}
+
+#wesley {
+    margin-right: 450px;
+    margin-left: 250px;
 }
 
 #wesley p{
@@ -66,6 +86,11 @@ footer {
 
 .fav-songs {
     padding-bottom: 90px;
+}
+
+.b {
+    display: flex;
+    justify-content: space-between;
 }
 
 #albums {
